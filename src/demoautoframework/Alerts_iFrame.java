@@ -48,6 +48,8 @@ public class Alerts_iFrame {
 		// Accepting alert
 		alert.accept();
 		// alert.dismiss();
+		
+		driver.quit();
 	}
 
 }
